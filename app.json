@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MessageNorth",
+    "slug": "MessageNorth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/MessageNorth.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.muzaffer.messagenorth",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/MessageNorth.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/MessageNorth.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b18b3bd-df2e-4fa1-a712-8067d6eb74d9"
+      }
+    }
+  }
+}
